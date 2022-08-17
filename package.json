@@ -35,6 +35,19 @@
   },
   "name": "afs-product-card",
   "author": "Andres Felipe Saumet <andressaumet@gmail.com> (https://www.andressaumet.com)",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/asaumet230/afs-product-card"
+  },
+  "homepage": "https://www.andressaumet.com",
+  "keywords": [
+    "product",
+    "card",
+    "react",
+    "afs",
+    "andres",
+    "saumet"
+  ],
   "module": "dist/afs-product-card.esm.js",
   "size-limit": [
     {

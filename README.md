@@ -1,4 +1,4 @@
-# Do-product-card
+# Afs-product-card
 
 Este es un paquete de pruebas de despliegues en NPM.
 
