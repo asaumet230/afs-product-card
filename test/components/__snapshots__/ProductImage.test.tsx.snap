@@ -1,0 +1,25 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Pruebas en el componente <ProductImage /> Debe de renderizarse correctamente con imagen 1`] = `
+<div
+  className="productCard undefined"
+>
+  <img
+    alt="Coffe-con-imagen"
+    className="productImg undefined"
+    src="./coffee-mug.png"
+  />
+</div>
+`;
+
+exports[`Pruebas en el componente <ProductImage /> Debe de renderizarse correctamente sin imagen 1`] = `
+<div
+  className="productCard undefined"
+>
+  <img
+    alt="Coffe-sin-imagen"
+    className="productImg undefined"
+    src="http://no-image.jpg"
+  />
+</div>
+`;

@@ -1,0 +1,21 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Pruebas en el Componente <ProductTitle /> Debe de mostrar el titulo de producto por defecto 1`] = `
+<div
+  className="productCard undefined"
+>
+  <span
+    className="productDescription "
+  >
+    Coffe-sin-imagen
+  </span>
+</div>
+`;
+
+exports[`Pruebas en el Componente <ProductTitle /> Debe de mostrarse el titulo correctamente 1`] = `
+<span
+  className="productDescription "
+>
+  Custom product
+</span>
+`;
