@@ -10,3 +10,9 @@ export const product2 = {
   title: 'Coffe-con-imagen',
   img: './coffee-mug.png'
 }
+
+export const product3 = {
+  id: '3',
+  title: 'Coffe-mug',
+  img: './coffee-mug.png'
+}
